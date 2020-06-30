@@ -1,0 +1,19 @@
+{
+	"params":
+	{
+		"local_server": "True",
+		"local_uri": "mysql+pymysql://root:@localhost/cleanblog",
+		"product_uri": "mysql+pymysql://root:@localhost/cleanblog",
+		"fb_url": "https://facebook.com/cleanblog",
+		"tw_url": "https://twitter.com/cleanblog",
+		"git_url": "https://github.com/cleanblog.github.io",
+		"blog_name": "Clean Blog",
+		"gmail_id": "sendmailfrom80@gmail.com",
+		"gmail_pass": "popsot123",
+		"about_text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		"no_of_posts": 2,
+		"admin_user": "admin",
+		"admin_pass": "123",
+		"upload_location": "E:\\flask\\static\\img\\"
+	}
+}
